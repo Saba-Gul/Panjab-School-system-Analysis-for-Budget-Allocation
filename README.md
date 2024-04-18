@@ -63,7 +63,10 @@ Higher secondary schools present the lowest number of functional classrooms, tot
 
 #### Bar Chart Representing Student Gender Distribution
 #### Table Showcasing School Ownership
- ![P Pollution](Images/SchoolOwnership.png "Table Showcasing School Ownership")  
+ ![P Pollution](Images/so1.png "Table Showcasing School Ownership")
+
+  ![P Pollution](Images/so2.png "Bar Chart Showcasing School Ownership")  
+  
 #### Distribution of Teachers Based on Job Posts: (Insert chart here)
  ![P Pollution](Images/jobpost.png "Distribution of Teachers Based on Job Posts")  
 #### Pie Chart Displaying Percentage of Vacant and Filled Teaching and Non-Teaching Posts: (Insert chart here)
