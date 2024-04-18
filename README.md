@@ -18,8 +18,10 @@ This analysis report aims to provide insights into the education landscape of Pu
 
 The education sector in Punjab, Pakistan, faces multifaceted challenges ranging from inadequate infrastructure to staffing issues. This analysis aims to utilize data-driven approaches to understand these challenges and propose actionable solutions to enhance the quality of education.
 
-## 2. Dataset Analysis
+## 2. Dataset Analysis:
 
+ ![P Pollution](Images/a1.png "Punjab Education System Insights")  
+ 
 #### Total Number of Schools
 - The dataset comprises 48,192 schools across Punjab.
 
@@ -61,10 +63,12 @@ Higher secondary schools present the lowest number of functional classrooms, tot
 
 #### Bar Chart Representing Student Gender Distribution
 #### Table Showcasing School Ownership
+ ![P Pollution](Images/SchoolOwnership.png "Table Showcasing School Ownership")  
 #### Distribution of Teachers Based on Job Posts: (Insert chart here)
-
+ ![P Pollution](Images/jobpost.png "Distribution of Teachers Based on Job Posts")  
 #### Pie Chart Displaying Percentage of Vacant and Filled Teaching and Non-Teaching Posts: (Insert chart here)
-
+ ![P Pollution](Images/Vacant_filled.png "Vacant vs. Filled Positions")  
+ 
 #### Building Conditions and Security Measures:
 
 #### Percentage of Schools with Satisfactory Building Conditions:
@@ -102,7 +106,7 @@ Higher secondary schools present the lowest number of functional classrooms, tot
 3. Hafizabad
 4. Nankana Sahib
 5. Chiniot
-   
+
 ## 3. Recommendations for Improvement
 
 ### Infrastructure Enhancement
